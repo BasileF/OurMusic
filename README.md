@@ -12,25 +12,26 @@ We made use of the Google Cloud Platform, by implementing user authentication wi
 <li>React: React, with the help of MaterialUI was used to build a clean and responsive front-end</li>
 <li>TouchTunes Songs API: Used for searching songs and streaming audio</li>
 </ul>
-## Challenges we ran into
 
+## Challenges we ran into
 <ul>
 <li>CORS policy errors when trying to access responses from the TouchTunes API from the front-end</li>
 <li>Syncing audio using Firebase's Realtime Database among several users in the same listening session</li>
 </ul>
-## Accomplishments that we're proud of
 
+## Accomplishments that we're proud of
 <ul>
 <li>Built a secure user login</li>
 <li>Nice UI</li>
 <li>Working application</li>
 <li>Successful audio syncing</li>
 </ul>
-## What we learned
 
+## What we learned
 <ul>
 <li>How to use Octave's TouchTunes Songs API</li>
 <li>How to resolve CORS Policy response errors by building a middle-tier to handle requests and responses</li>
 </ul>
+
 ## What's next for OurMusic
 Add a friends feature, allowing users to save friends and invite them seamlessly to listening sessions. In addition, allow users to seek and exchange admin permissions in a shared listening session. It would be favorable to add a queue feature to allow users to select songs that will play when the current song is over.
