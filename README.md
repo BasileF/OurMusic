@@ -13,11 +13,13 @@ We made use of the Google Cloud Platform, by implementing user authentication wi
 <li>TouchTunes Songs API: Used for searching songs and streaming audio</li>
 </ul>
 ## Challenges we ran into
+
 <ul>
 <li>CORS policy errors when trying to access responses from the TouchTunes API from the front-end</li>
 <li>Syncing audio using Firebase's Realtime Database among several users in the same listening session</li>
 </ul>
 ## Accomplishments that we're proud of
+
 <ul>
 <li>Built a secure user login</li>
 <li>Nice UI</li>
@@ -25,6 +27,7 @@ We made use of the Google Cloud Platform, by implementing user authentication wi
 <li>Successful audio syncing</li>
 </ul>
 ## What we learned
+
 <ul>
 <li>How to use Octave's TouchTunes Songs API</li>
 <li>How to resolve CORS Policy response errors by building a middle-tier to handle requests and responses</li>
